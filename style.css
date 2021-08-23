@@ -1,6 +1,11 @@
 body {
-    background: #CCCCCC
 }
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
 #banner {
 	width: 100%;
 }
@@ -19,4 +24,24 @@ p {
 
 em strong {
     color: #FF0000;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.itens {
+	font-style: #FFFFFFF;
+	padding: 20px;
+}
+
+h2 {
+	text-align: center;
+}
+
+.imagembenebicios {
+	width: 50%;
 }
